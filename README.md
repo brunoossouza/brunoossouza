@@ -12,4 +12,6 @@ Atuo na área de análise de dados e aqui compartilho projetos focados em gerar 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunoossouza&repo=dashboard-sac-powerbi&theme=dark)](https://github.com/brunoossouza/dashboard-sac-powerbi)
 
+### Linguagens utilizadas
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoossouza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
