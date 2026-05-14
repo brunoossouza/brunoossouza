@@ -6,6 +6,9 @@ Atuo na área de Análise de Dados, desenvolvendo projetos com foco em dashboard
 ![Estatísticas de Bruno](https://github-readme-stats-sigma-five.vercel.app/api?username=brunoossouza&show_icons=true&theme=dark)
 
 
+![Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brunoossouza&layout=compact&theme=dark)
+
+
 ### 📬 Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-souza-bb36a5327/)
