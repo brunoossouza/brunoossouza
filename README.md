@@ -3,18 +3,7 @@
 ###### Sobre o Bruno
 Atuo na área de Análise de Dados, desenvolvendo projetos com foco em dashboards, visualização de dados, automações e geração de insights para tomada de decisão utilizando ferramentas como Power BI, Python, SQL e BigQuery.
 
-### 📊 Detalhes
-[![Estatísticas do GitHub](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=brunoossouza&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 🚀 Projetos
-[![Projeto London](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=brunoossouza&repo=london-crime-project&theme=dark)](https://github.com/brunoossouza/london-crime-project)
-
----
-
-### 🛠️ Linguagens e Ferramentas
-[![Linguagens mais usadas](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=brunoossouza&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Estatísticas de Bruno](https://github-readme-stats-sigma-five.vercel.app/api?username=brunoossouza&show_icons=true&theme=dark)
 
 
 ### 📬 Contatos
