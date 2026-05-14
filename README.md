@@ -3,6 +3,12 @@
 ###### Sobre o Bruno
 Atuo na área de Análise de Dados, desenvolvendo projetos com foco em dashboards, visualização de dados, automações e geração de insights para tomada de decisão utilizando ferramentas como Power BI, Python, SQL e BigQuery.
 
+
+### 📈 Projeto em Destaque: Dashboard SAC
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brunoossouza/dashboard-sac-powerbi/main/dashboard.png" width="100%">
+</p>
+
 ![Estatísticas de Bruno](https://github-readme-stats-sigma-five.vercel.app/api?username=brunoossouza&show_icons=true&theme=dark)
 
 
