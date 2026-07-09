@@ -1,7 +1,7 @@
 ### Olá, Seja BEM VINDOS!! 👋
 
 ###### Sobre o Bruno
-Analista de Dados com pós-graduação em Análise de Dados pela EBAC e bacharelado em Ciência da Computação. Experiência prática em análise exploratória de dados, automação de processos e criação de dashboards. Já automatizei o cadastro de mais de 20 mil produtos via RPA, eliminando trabalho manual e reduzindo erros operacionais. Domínio de Python, SQL, Power BI e Looker Studio, com foco em soluções orientadas por dados para apoio à tomada de decisão.
+Analista de Dados com pós-graduação em Análise de Dados pela EBAC e bacharelado em Ciência da Computação. Experiência prática em análise exploratória de dados, automação de processos e criação de dashboards
 
 ### 📈 Projeto em Destaque: Dashboard SAC
 <p align="center">
