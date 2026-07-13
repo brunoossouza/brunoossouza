@@ -1,7 +1,7 @@
 ### Olá, Seja BEM VINDOS!! 👋
 
 ###### Sobre o Bruno
-Analista de Dados com pós-graduação em Análise de Dados pela EBAC e bacharelado em Ciência da Computação. Experiência prática em análise exploratória de dados, automação de processos e criação de dashboards.
+  Formado em nalista de Dados, pela EBAC e bacharelado em Ciência da Computação. Experiência prática em análise exploratória de dados, automação de processos e criação de dashboards.
 
 ### 📈 Projeto em Destaque: Dashboard SAC
 <p align="center">
